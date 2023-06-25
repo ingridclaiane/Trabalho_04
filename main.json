@@ -1,0 +1,4 @@
+{
+    "estado": ["Aberto", "Manutencao", "Fechado"],
+    "imagem": ["aberto (1).jpeg", "fechado (1).jpeg", "manutençao (1).jpeg"]
+}
